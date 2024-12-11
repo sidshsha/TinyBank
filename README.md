@@ -1,2 +1,2 @@
 # TinyBank
-TinyBank Assingment
+TinyBank Assignment
