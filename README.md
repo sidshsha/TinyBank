@@ -15,7 +15,7 @@ It covers below functionalities-
   View transaction history
 
 
-#Assumptions
+# Assumptions
 Since we have limited time and sources so following assumptions have been made
 
 -authentication system is already present
